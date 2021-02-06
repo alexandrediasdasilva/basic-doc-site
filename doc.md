@@ -296,7 +296,10 @@ You have an operational multi-boot configuration. When the rEFInd menu appears, 
 
 Problem|Possible cause|Actions
 ---|---|---
-Your Mac does not start from the bootable installer drive.|In some configurations, you may need to manually select the device that you want to start from.|1. Select  > Restart... 2. When you hear the startup sound, hold down the option key (⌥). 3.Click the USB flash drive icon.
+Your Mac does not start from the bootable installer drive.|In some configurations, you may need to manually select the device that you want to start from.|
+1. Select  > Restart...
+2. When you hear the startup sound, hold down the option key (⌥).
+3.Click the USB flash drive icon.|
 
 The rEFInd menu does not appear at startup.|In some configurations, you may need to restart twice for the rEFInd menu to appear.|Restart again. If the rEFInd menu does not appear on the second restart, other software on your Mac may be responsible for interference.
 
