@@ -21,9 +21,7 @@ It does not describe how to install OS X El Capitan, install earlier or future v
 
 ## Audience for this guide
 
-Caution
-{: .label .label-red }
-This guide contains procedures that require you to use advanced functionalities, disable vital components of your Mac, and alter the hard disk structure. Before you proceed, make sure that you understand the concept of partitioning and that you have basic knowledge of all three OSes.
+Caution: This guide contains procedures that require you to use advanced functionalities, disable vital components of your Mac, and alter the hard disk structure. Before you proceed, make sure that you understand the concept of partitioning and that you have basic knowledge of all three OSes.
 
 Consider multi booting if you identify with at least one the following situations:
 - you switch between the OSes regularly and want to have access to them on the same computer
