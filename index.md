@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Installation guide: Windows 10, Ubuntu 15.10, or both
 For Macs with OS X El Capitan
 

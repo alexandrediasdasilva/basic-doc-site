@@ -1,0 +1,5 @@
+# Spécifie le thème à utiliser
+theme: just-the-docs
+
+# Paramètres du thème Just The Docs
+color_scheme: custom
