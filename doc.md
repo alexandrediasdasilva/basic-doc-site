@@ -297,11 +297,7 @@ You have an operational multi-boot configuration. When the rEFInd menu appears, 
 Problem|Possible cause|Actions
 ---|---|---
 Your Mac does not start from the bootable installer drive.|In some configurations, you may need to manually select the device that you want to start from.|1. Select  > Restart... 2. When you hear the startup sound, hold down the option key (⌥). 3.Click the USB flash drive icon.
-
 The rEFInd menu does not appear at startup.|In some configurations, you may need to restart twice for the rEFInd menu to appear.|Restart again. If the rEFInd menu does not appear on the second restart, other software on your Mac may be responsible for interference.
-
 When you select Ubuntu in the rEFInd menu, Windows starts instead.|The Ubuntu boot loader is on the Windows partition instead of the Ubuntu partition.|Use Boot-Repair to reinstall the Ubuntu boot loader on the Ubuntu partition (https://help.ubuntu.com/community/Boot-Repair).
-
 When you try to execute the dd command, error dd: Invalid number ‘1m’, you are using GNU dd occurs.|With GNU Coreutils, ‘1m’ is not a valid number.|Enter the same command but replace bs=1m with bs=1M.
-
 When you try to execute the dd command, error dd: /dev/diskN: Resource busy, make sure the disk is not in use occurs.|Your USB flash drive is busy.|1.Open Disk Utility (Applications > Utilities). 2. Click Unmount. 3. Try again.
