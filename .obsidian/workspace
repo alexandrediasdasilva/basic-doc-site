@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "eef6aa2e27962815",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f373d4a96be3b46",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "120f68916c636878",
+    "type": "split",
+    "children": [
+      {
+        "id": "9594c8268d7fad25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e48d84e810e979b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dcbba6bf89d8b2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230
+  },
+  "right": {
+    "id": "032ad4078c0ef179",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f7ffc8e8a35c00",
+        "type": "tabs",
+        "dimension": 51.86522262334537,
+        "children": [
+          {
+            "id": "1f7f09770268e9dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "docs/index.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            }
+          },
+          {
+            "id": "514f9ab21d584690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/index.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dff9d93806136ff9",
+        "type": "tabs",
+        "dimension": 48.13477737665463,
+        "children": [
+          {
+            "id": "0faa5ebd17b8089e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/what-is-multi-booting.md",
+    "docs/_doc-templates/default.md",
+    "index.md",
+    "docs/_doc-templates/topic.md",
+    "docs/_doc-templates/Untitled.md",
+    "Untitled.md",
+    "docs/Untitled.md",
+    "what-is-multi-booting.md"
+  ]
+}
