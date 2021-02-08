@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 230,
+    "collapsed": true
   },
   "right": {
     "id": "032ad4078c0ef179",
@@ -62,7 +63,7 @@
       {
         "id": "b2f7ffc8e8a35c00",
         "type": "tabs",
-        "dimension": 51.86522262334537,
+        "dimension": 51.865222623345375,
         "children": [
           {
             "id": "1f7f09770268e9dd",
@@ -108,7 +109,7 @@
       {
         "id": "dff9d93806136ff9",
         "type": "tabs",
-        "dimension": 48.13477737665463,
+        "dimension": 48.134777376654625,
         "children": [
           {
             "id": "0faa5ebd17b8089e",
