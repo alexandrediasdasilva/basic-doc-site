@@ -9,6 +9,8 @@ permalink: pretty
 
 # Spécifie le thème à utiliser
 theme: just-the-docs
+# (GitHub Pages seulement) Spécifie le thème hébergé sur GitHub à utiliser
+remote_theme: pmarsceill/just-the-docs
 
 # Paramètres du thème Just The Docs
 color_scheme: custom
