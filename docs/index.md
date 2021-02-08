@@ -132,11 +132,11 @@ In this section, you use Boot Camp Assistant to copy Windows installation files 
     - Create a Windows 8 or later install disk
     - Download the latest Windows support software from Apple
     - Install Windows 8 or later version
-6. Click Continue. Boot Camp Assistant asks you to locate the Windows 10 disk image (ISO file) and select a USB destination drive.
-7. If the ISO image field is empty, click Choose… to locate the ISO file manually.
+6. Click **Continue**. Boot Camp Assistant asks you to locate the Windows 10 disk image (ISO file) and select a USB destination drive.
+7. If the ISO image field is empty, click **Choose…** to locate the ISO file manually.
 8. If Boot Camp Assistant detects many USB flash drives, select which drive to use as the destination disk.
 9. Click Continue.
-10. When the warning message appears, click Continue. Boot Camp Assistant copies Windows installation files and Mac drivers to your destination drive and makes it bootable.
+10. When the warning message appears, click **Continue**. Boot Camp Assistant copies Windows installation files and Mac drivers to your destination drive and makes it bootable.
 
 Boot Camp Assistant asks you to create a Windows partition. Do not remove the bootable Windows installer drive.
 
