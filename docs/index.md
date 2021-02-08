@@ -5,14 +5,6 @@ title: Home
 # Installation guide: Windows 10, Ubuntu 15.10, or both
 For Macs with OS X El Capitan
 
-## Legal Notice
-©2016 EverLearning. All rights reserved. EverLearning and related trademarks, names, and logos are the property of EverLearning Limited and are registered and/or used in the U.S. and countries around the world.
-Apple, Mac, and Boot Camp are trademarks of Apple Inc. Windows is a trademark of Microsoft Corporation. All other trademarks are the property of their respective owners.
-
-This guide may not, in whole or part, be copied, photocopied, reproduced, translated, or reduced to any electronic medium or machine readable form without the prior agreement and written permission of EverLearning, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-EverLearning assumes no responsibility for any inaccuracies in this document and cannot be held responsible for any damage or data loss. EverLearning reserves the right to change, modify, transfer, or otherwise revise this publication without notice. Use this guide at your own risk.
-
 ## Purpose of this guide	
 This guide describes how to install the latest versions to date of Windows and Ubuntu (Windows 10 and Ubuntu 15.10) on a Mac that runs OS X El Capitan (10.11).
 
@@ -303,3 +295,11 @@ The rEFInd menu does not appear at startup.|In some configurations, you may need
 When you select Ubuntu in the rEFInd menu, Windows starts instead.|The Ubuntu boot loader is on the Windows partition instead of the Ubuntu partition.|Use Boot-Repair to reinstall the Ubuntu boot loader on the Ubuntu partition (https://help.ubuntu.com/community/Boot-Repair).
 When you try to execute the dd command, error dd: Invalid number ‘1m’, you are using GNU dd occurs.|With GNU Coreutils, ‘1m’ is not a valid number.|Enter the same command but replace bs=1m with bs=1M.
 When you try to execute the dd command, error dd: /dev/diskN: Resource busy, make sure the disk is not in use occurs.|Your USB flash drive is busy.|1.Open Disk Utility (Applications > Utilities). 2. Click Unmount. 3. Try again.
+
+## Legal Notice
+©2016 EverLearning. All rights reserved. EverLearning and related trademarks, names, and logos are the property of EverLearning Limited and are registered and/or used in the U.S. and countries around the world.
+Apple, Mac, and Boot Camp are trademarks of Apple Inc. Windows is a trademark of Microsoft Corporation. All other trademarks are the property of their respective owners.
+
+This guide may not, in whole or part, be copied, photocopied, reproduced, translated, or reduced to any electronic medium or machine readable form without the prior agreement and written permission of EverLearning, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+EverLearning assumes no responsibility for any inaccuracies in this document and cannot be held responsible for any damage or data loss. EverLearning reserves the right to change, modify, transfer, or otherwise revise this publication without notice. Use this guide at your own risk.
